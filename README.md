@@ -1,4 +1,4 @@
-##📊 E-commerce Sales Analysis Dashboard (Excel)
+📊 E-commerce Sales Analysis Dashboard (Excel)
 
 This project presents a comprehensive E-commerce Sales Dashboard developed using Microsoft Excel to analyze and visualize sales performance data.
 
@@ -46,6 +46,3 @@ Compared regional revenue contribution
 
 Evaluated profit margins across segments
 
-🎯 Purpose of the Project
-
-This project demonstrates:
